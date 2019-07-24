@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tv_keyword"
+    style="@style/TextView"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_keyword_item"
+    android:gravity="center"
+    android:maxLines="2"
+    android:textColor="@android:color/white" />

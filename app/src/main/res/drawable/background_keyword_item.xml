@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="@dimen/keyword_radius" />
+    <padding
+        android:bottom="@dimen/padding_keyword_vertical"
+        android:left="@dimen/padding_keyword_horizontal"
+        android:right="@dimen/padding_keyword_horizontal"
+        android:top="@dimen/padding_keyword_vertical" />
+</shape>
